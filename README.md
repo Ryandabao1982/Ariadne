@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Ariadne: The Research Navigator
+Ariadne: The Research Navigator
 
 > An AI research partner that learns as you explore.
 
@@ -77,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 =======
 # Ariadne
 An AI research partner that learns as you explore.
->>>>>>> origin/main
+
